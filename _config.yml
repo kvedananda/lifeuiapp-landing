@@ -54,8 +54,8 @@ features                                  :
     description                           : No tracking, no data collection, no ads. Your Apple Health data stays on your device.
     fontawesome_icon_name                 : lock
 
-  - title                                 : Create your own data types
-    description                           : Create custom data types for health or habits and view them alongside your Apple Health data.
+  - title                                 : Create Custom Data Types
+    description                           : Create your own data types for health or habits and view them alongside your Apple Health data.
     fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Free with Paid Features
