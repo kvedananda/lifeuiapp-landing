@@ -54,6 +54,10 @@ features                                  :
     description                           : No tracking, no data collection, no ads. Your Apple Health data stays on your device.
     fontawesome_icon_name                 : lock
 
+  - title                                 : Create your own data types
+    description                           : Create custom data types for health or habits and view them alongside your Apple Health data.
+    fontawesome_icon_name                 : pencil-alt
+
   - title                                 : Free with Paid Features
     description                           : LifeUI is free to use with limited features. No payment, account, or subscription required. For more features, consider upgrading to Pro.
     fontawesome_icon_name                 : star
